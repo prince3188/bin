@@ -1,0 +1,20 @@
+/cgi-bin/DCShop/Orders/orders.txt
+	/vpasp/shopdbtest.asp
+	/orders/checks.txt
+	/WebShop/logs
+	/ccbill/secure/ccbill.log /scripts/cart32.exe
+	/cvv2.txt
+	/cart/shopdbtest.asp
+	/cgi-win/cart.pl
+	/shopdbtest.asp
+	/WebShop/logs/cc.txt /cgi-local/cart.pl
+	/PDG_Cart/order.log
+	/config/datasources/expire.mdb
+	/cgi-bin/ezmall2000/mall2000.cgi?
+	page=../mall_log_files/order.log
+	%00html /orders/orders.txt
+	/cgis/cart.pl
+	/webcart/carts
+	/cgi-bin/cart32.exe/cart32clientlist
+	/cgi/cart.pl
+	/comersus/database/comersus.mdb /WebShop/
